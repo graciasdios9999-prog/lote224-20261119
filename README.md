@@ -10,11 +10,11 @@ No son documentales de 90 minutos. Un corte único cada 2–3 s durante 90 min s
 | fe_acsa.mp4 | Refugio en la Palabra (categoryId 27) | 138.63 s | Acsa, Jueces 1, cita breve RV1909 | PIDIÓ Y RECIBIÓ |
 | cu_kupffer.mp4 | Instagram si el canal existe; si no, Anatomía del engaño (categoryId 27). Nunca los dos. | 135.17 s | células de Kupffer; cubeba, amchur y tulsi como cocina, no como cura | SANGRE VIEJA |
 
-URLs directas (rama main). Preferir media.githubusercontent.com si raw redirige:
+URLs directas verificadas (HTTP 200, content-type application/octet-stream, cabecera ftyp/isom). media.githubusercontent.com devolvió 404 en este tamaño; raw sí entrega el mp4:
 
-- https://media.githubusercontent.com/media/graciasdios9999-prog/lote224-20261119/main/ia_siamang.mp4
-- https://media.githubusercontent.com/media/graciasdios9999-prog/lote224-20261119/main/fe_acsa.mp4
-- https://media.githubusercontent.com/media/graciasdios9999-prog/lote224-20261119/main/cu_kupffer.mp4
+- https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/ia_siamang.mp4
+- https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/fe_acsa.mp4
+- https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/cu_kupffer.mp4
 
 Tag de afiliado en las descripciones: michelgonza02-20, copiado de repos previos del mismo usuario (videos-virales-michel y lote223), no inventado.
 
