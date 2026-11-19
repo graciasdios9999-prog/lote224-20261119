@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ia_siamang",
+    "file": "ia_siamang.mp4",
+    "duration_s": 141.92,
+    "slices": 38,
+    "unique_images": 38,
+    "bytes": 18690155,
+    "voice": "es-MX-DaliaNeural",
+    "title": "2026 Este primate grita con una bolsa en el cuello",
+    "thumb": "BOLSA QUE GRITA",
+    "categoryId": "15",
+    "channel": "IA al Alcance",
+    "theme": "siamang / Symphalangus syndactylus"
+  },
+  {
+    "id": "fe_acsa",
+    "file": "fe_acsa.mp4",
+    "duration_s": 138.63,
+    "slices": 44,
+    "unique_images": 44,
+    "bytes": 17404033,
+    "voice": "es-MX-JorgeNeural",
+    "title": "2026 Pidió manantiales y no se fue vacía",
+    "thumb": "PIDIÓ Y RECIBIÓ",
+    "categoryId": "27",
+    "channel": "Refugio en la Palabra",
+    "theme": "Acsa y Caleb, Jueces 1, paráfrasis y cita breve RV1909"
+  },
+  {
+    "id": "cu_kupffer",
+    "file": "cu_kupffer.mp4",
+    "duration_s": 135.17,
+    "slices": 37,
+    "unique_images": 37,
+    "bytes": 14222192,
+    "voice": "es-CO-SalomeNeural",
+    "title": "2026 Tu hígado se come la sangre vieja",
+    "thumb": "SANGRE VIEJA",
+    "categoryId": "27",
+    "channel": "Instagram si existe; si no, Anatomía del engaño",
+    "theme": "células de Kupffer; cubeba, amchur y tulsi como comida, no como cura"
+  }
+]
